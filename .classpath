@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/main/resources"/>
+	<classpathentry kind="src" path="src/test/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="Z:/eclipse-workspace/S2/Spring Test/lib/accessors-smart-1.2.jar"/>
+	<classpathentry kind="lib" path="Z:/eclipse-workspace/S2/Spring Test/lib/android-json-0.0.20131108.vaadin1.jar"/>
+	<classpathentry kind="lib" path="Z:/eclipse-workspace/S2/Spring Test/lib/apiguardian-api-1.1.0.jar"/>
+	<classpathentry kind="lib" path="Z:/eclipse-workspace/S2/Spring Test/lib/asm-5.0.4.jar"/>
+	<classpathentry kind="lib" path="Z:/eclipse-workspace/S2/Spring Test/lib/assertj-core-3.13.2.jar"/>
+	<classpathentry kind="lib" path="Z:/eclipse-workspace/S2/Spring Test/lib/attoparser-2.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="Z:/eclipse-workspace/S2/Spring Test/lib/byte-buddy-1.10.6.jar"/>
+	<classpathentry kind="lib" path="Z:/eclipse-workspace/S2/Spring Test/lib/byte-buddy-agent-1.10.6.jar"/>
+	<classpathentry kind="lib" path="Z:/eclipse-workspace/S2/Spring Test/lib/classmate-1.5.1.jar"/>
+	<classpathentry kind="lib" path="Z:/eclipse-workspace/S2/Spring Test/lib/hamcrest-2.1.jar"/>
+	<classpathentry kind="lib" path="Z:/eclipse-workspace/S2/Spring Test/lib/hibernate-validator-6.0.18.Final.jar"/>
+	<classpathentry kind="lib" path="Z:/eclipse-workspace/S2/Spring Test/lib/jackson-annotations-2.10.2.jar"/>
+	<classpathentry kind="lib" path="Z:/eclipse-workspace/S2/Spring Test/lib/jackson-core-2.10.2.jar"/>
+	<classpathentry kind="lib" path="Z:/eclipse-workspace/S2/Spring Test/lib/jackson-databind-2.10.2.jar"/>
+	<classpathentry kind="lib" path="Z:/eclipse-workspace/S2/Spring Test/lib/jackson-datatype-jdk8-2.10.2.jar"/>
+	<classpathentry kind="lib" path="Z:/eclipse-workspace/S2/Spring Test/lib/jackson-datatype-jsr310-2.10.2.jar"/>
+	<classpathentry kind="lib" path="Z:/eclipse-workspace/S2/Spring Test/lib/jackson-module-parameter-names-2.10.2.jar"/>
+	<classpathentry kind="lib" path="Z:/eclipse-workspace/S2/Spring Test/lib/jakarta.activation-api-1.2.1.jar"/>
+	<classpathentry kind="lib" path="Z:/eclipse-workspace/S2/Spring Test/lib/jakarta.annotation-api-1.3.5.jar"/>
+	<classpathentry kind="lib" path="Z:/eclipse-workspace/S2/Spring Test/lib/jakarta.validation-api-2.0.2.jar"/>
+	<classpathentry kind="lib" path="Z:/eclipse-workspace/S2/Spring Test/lib/jakarta.xml.bind-api-2.3.2.jar"/>
+	<classpathentry kind="lib" path="Z:/eclipse-workspace/S2/Spring Test/lib/jboss-logging-3.4.1.Final.jar"/>
+	<classpathentry kind="lib" path="Z:/eclipse-workspace/S2/Spring Test/lib/jsonassert-1.5.0.jar"/>
+	<classpathentry kind="lib" path="Z:/eclipse-workspace/S2/Spring Test/lib/json-path-2.4.0.jar"/>
+	<classpathentry kind="lib" path="Z:/eclipse-workspace/S2/Spring Test/lib/json-smart-2.3.jar"/>
+	<classpathentry kind="lib" path="Z:/eclipse-workspace/S2/Spring Test/lib/jul-to-slf4j-1.7.30.jar"/>
+	<classpathentry kind="lib" path="Z:/eclipse-workspace/S2/Spring Test/lib/junit-jupiter-5.5.2.jar"/>
+	<classpathentry kind="lib" path="Z:/eclipse-workspace/S2/Spring Test/lib/junit-jupiter-api-5.5.2.jar"/>
+	<classpathentry kind="lib" path="Z:/eclipse-workspace/S2/Spring Test/lib/junit-jupiter-engine-5.5.2.jar"/>
+	<classpathentry kind="lib" path="Z:/eclipse-workspace/S2/Spring Test/lib/junit-jupiter-params-5.5.2.jar"/>
+	<classpathentry kind="lib" path="Z:/eclipse-workspace/S2/Spring Test/lib/junit-platform-commons-1.5.2.jar"/>
+	<classpathentry kind="lib" path="Z:/eclipse-workspace/S2/Spring Test/lib/junit-platform-engine-1.5.2.jar"/>
+	<classpathentry kind="lib" path="Z:/eclipse-workspace/S2/Spring Test/lib/log4j-api-2.12.1.jar"/>
+	<classpathentry kind="lib" path="Z:/eclipse-workspace/S2/Spring Test/lib/log4j-to-slf4j-2.12.1.jar"/>
+	<classpathentry kind="lib" path="Z:/eclipse-workspace/S2/Spring Test/lib/logback-classic-1.2.3.jar"/>
+	<classpathentry kind="lib" path="Z:/eclipse-workspace/S2/Spring Test/lib/logback-core-1.2.3.jar"/>
+	<classpathentry kind="lib" path="Z:/eclipse-workspace/S2/Spring Test/lib/mockito-core-3.1.0.jar"/>
+	<classpathentry kind="lib" path="Z:/eclipse-workspace/S2/Spring Test/lib/mockito-junit-jupiter-3.1.0.jar"/>
+	<classpathentry kind="lib" path="Z:/eclipse-workspace/S2/Spring Test/lib/objenesis-2.6.jar"/>
+	<classpathentry kind="lib" path="Z:/eclipse-workspace/S2/Spring Test/lib/opentest4j-1.2.0.jar"/>
+	<classpathentry kind="lib" path="Z:/eclipse-workspace/S2/Spring Test/lib/slf4j-api-1.7.30.jar"/>
+	<classpathentry kind="lib" path="Z:/eclipse-workspace/S2/Spring Test/lib/snakeyaml-1.25.jar"/>
+	<classpathentry kind="lib" path="Z:/eclipse-workspace/S2/Spring Test/lib/spring-aop-5.2.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="Z:/eclipse-workspace/S2/Spring Test/lib/spring-beans-5.2.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="Z:/eclipse-workspace/S2/Spring Test/lib/spring-boot-2.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="Z:/eclipse-workspace/S2/Spring Test/lib/spring-boot-autoconfigure-2.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="Z:/eclipse-workspace/S2/Spring Test/lib/spring-boot-starter-2.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="Z:/eclipse-workspace/S2/Spring Test/lib/spring-boot-starter-json-2.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="Z:/eclipse-workspace/S2/Spring Test/lib/spring-boot-starter-logging-2.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="Z:/eclipse-workspace/S2/Spring Test/lib/spring-boot-starter-test-2.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="Z:/eclipse-workspace/S2/Spring Test/lib/spring-boot-starter-thymeleaf-2.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="Z:/eclipse-workspace/S2/Spring Test/lib/spring-boot-starter-tomcat-2.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="Z:/eclipse-workspace/S2/Spring Test/lib/spring-boot-starter-validation-2.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="Z:/eclipse-workspace/S2/Spring Test/lib/spring-boot-starter-web-2.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="Z:/eclipse-workspace/S2/Spring Test/lib/spring-boot-test-2.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="Z:/eclipse-workspace/S2/Spring Test/lib/spring-boot-test-autoconfigure-2.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="Z:/eclipse-workspace/S2/Spring Test/lib/spring-context-5.2.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="Z:/eclipse-workspace/S2/Spring Test/lib/spring-core-5.2.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="Z:/eclipse-workspace/S2/Spring Test/lib/spring-expression-5.2.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="Z:/eclipse-workspace/S2/Spring Test/lib/spring-jcl-5.2.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="Z:/eclipse-workspace/S2/Spring Test/lib/spring-test-5.2.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="Z:/eclipse-workspace/S2/Spring Test/lib/spring-web-5.2.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="Z:/eclipse-workspace/S2/Spring Test/lib/spring-webmvc-5.2.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="Z:/eclipse-workspace/S2/Spring Test/lib/thymeleaf-3.0.11.RELEASE.jar"/>
+	<classpathentry kind="lib" path="Z:/eclipse-workspace/S2/Spring Test/lib/thymeleaf-extras-java8time-3.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="Z:/eclipse-workspace/S2/Spring Test/lib/thymeleaf-spring5-3.0.11.RELEASE.jar"/>
+	<classpathentry kind="lib" path="Z:/eclipse-workspace/S2/Spring Test/lib/tomcat-embed-core-9.0.30.jar"/>
+	<classpathentry kind="lib" path="Z:/eclipse-workspace/S2/Spring Test/lib/tomcat-embed-el-9.0.30.jar"/>
+	<classpathentry kind="lib" path="Z:/eclipse-workspace/S2/Spring Test/lib/tomcat-embed-websocket-9.0.30.jar"/>
+	<classpathentry kind="lib" path="Z:/eclipse-workspace/S2/Spring Test/lib/unbescape-1.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="Z:/eclipse-workspace/S2/Spring Test/lib/xmlunit-core-2.6.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

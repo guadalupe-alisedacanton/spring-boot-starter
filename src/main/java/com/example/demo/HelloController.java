@@ -13,5 +13,11 @@ public class HelloController {
 		model.addAttribute("name", name);
 		return "greeting";
 	}
+	
+	@GetMapping("/movies")
+	public String movies(@RequestParam(name="name", required=false, defaultValue="Movies List") String name, Model model) {
+		model.addAttribute("name", name);
+		return "movies";
+	}
 
 }
